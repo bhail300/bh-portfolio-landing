@@ -1,0 +1,14 @@
+.carousel_comp {
+    display: flex;
+    flex-direction: row;
+}
+
+.center_image_styling {
+    border-radius: 5px;
+}
+
+.image_styling {
+    border-radius: 5px;
+    margin: 20px;
+    cursor: pointer;
+}

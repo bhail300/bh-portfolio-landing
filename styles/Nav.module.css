@@ -1,0 +1,8 @@
+.nav_cont {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    color: white;
+    width: 100%;
+    background-color: black;
+}
